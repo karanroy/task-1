@@ -1,0 +1,21 @@
+.test-class button{
+    display: none;
+}
+
+.container-1{
+    display: flex;
+    justify-content:space-between;
+  
+    margin: 0.25rem 2rem;
+}
+
+.test-class{
+    width: 15rem;
+    
+}
+
+.selected-box{
+    align-items: center;
+    display: flex; 
+    justify-content: center;
+}
